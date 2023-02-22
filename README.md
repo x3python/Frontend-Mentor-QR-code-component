@@ -4,7 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Screenshot
-![QR-code](https://user-images.githubusercontent.com/83002862/220304497-c12b8ff2-abf6-46e9-9fb4-3231e9a1c0bb.gif)
+![nft](https://user-images.githubusercontent.com/83002862/220579068-09e98ca1-c2b4-43c2-a8ea-bd4ac98f8f98.gif)
+![nft_1](https://user-images.githubusercontent.com/83002862/220579130-5c972ee0-4651-4951-b1d3-c01712572bf6.gif)
+![nft_2](https://user-images.githubusercontent.com/83002862/220579173-ea02cf78-de54-4af2-a05c-cd3652cfe0f9.gif)
+![nft_3](https://user-images.githubusercontent.com/83002862/220579208-ee0a2641-42aa-4fd2-aa2d-7c51c74ba776.gif)
+
 
 ### Links
 
