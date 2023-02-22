@@ -4,10 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Screenshot
-![nft](https://user-images.githubusercontent.com/83002862/220579068-09e98ca1-c2b4-43c2-a8ea-bd4ac98f8f98.gif)
-![nft_1](https://user-images.githubusercontent.com/83002862/220579130-5c972ee0-4651-4951-b1d3-c01712572bf6.gif)
-![nft_2](https://user-images.githubusercontent.com/83002862/220579173-ea02cf78-de54-4af2-a05c-cd3652cfe0f9.gif)
-![nft_3](https://user-images.githubusercontent.com/83002862/220579208-ee0a2641-42aa-4fd2-aa2d-7c51c74ba776.gif)
+
+![Untitled](https://user-images.githubusercontent.com/83002862/220580431-e4aa4707-3ffa-4c3a-8b3b-8393f94b6226.gif)
 
 
 ### Links
